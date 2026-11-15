@@ -1,0 +1,10 @@
+Thornecliffe
+Copyright 2026 Jick Brice (jickbrice@proton.me)
+
+Written with AI assistance from Claude Fable 5.1, Claude Fable 5.2 and Claude Opus 5.5
+(Anthropic), through Claude Code.
+
+The code, including play.html, is licensed under the Apache License, Version 2.0 (LICENSE). The
+data in data/ and the results in results/ are licensed under Creative Commons Attribution 4.0
+International (LICENSE-DATA). The trained adapters are distributed separately, under the Gemma
+Terms of Use.

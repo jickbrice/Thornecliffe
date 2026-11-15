@@ -1,0 +1,5 @@
+Gemma is provided under and subject to the Gemma Terms of Use found at ai.google.dev/gemma/terms
+
+Modification notice: the adapters in this repository are Model Derivatives of Gemma 3 12B
+(google/gemma-3-12b-it). Jick Brice (jickbrice@proton.me) modified Gemma in 2026 by training
+LoRA weights on it; loaded with Gemma, they change its behaviour.

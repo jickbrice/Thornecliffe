@@ -1,0 +1,15 @@
+{
+ "model": "google/gemma-3-12b-it",
+ "adapter": "runs/none_s2/adapter",
+ "load_seconds": 19.4,
+ "draws": {
+  "1": {
+   "rows": 280,
+   "seconds": 168.6
+  },
+  "2": {
+   "rows": 280,
+   "seconds": 168.5
+  }
+ }
+}

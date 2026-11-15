@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: >-
+  If you use Thornecliffe, please cite it as below. Written with AI assistance from
+  Claude Fable 5.1, Claude Fable 5.2 and Claude Opus 5.5 (Anthropic), through Claude Code.
+title: "Thornecliffe: a low-cost dataset and harness for studying LLM misalignment under RL"
+authors:
+  - family-names: Brice
+    given-names: Jick
+    email: jickbrice@proton.me
+version: 1.0.0
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+repository-code: "https://github.com/jickbrice/Thornecliffe"
+keywords:
+  - reinforcement learning
+  - reward misspecification
+  - AI safety
+  - benchmark
